@@ -6,3 +6,4 @@ Unreal_HW_05_Scene_ming_20210804 filter=lfs diff=lfs merge=lfs -text
 EnvironmentPack2 filter=lfs diff=lfs merge=lfs -text
 FPS_Weapon_Bundle filter=lfs diff=lfs merge=lfs -text
 DemoMap3_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+DemoMap1_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
