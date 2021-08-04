@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 PlasticToolBox_Normal_OpenGL_Auto1.uasset filter=lfs diff=lfs merge=lfs -text
+PlasticToolBox_PlasticToolBox_AmbientOcclu_Auto1.uasset filter=lfs diff=lfs merge=lfs -text
